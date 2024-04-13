@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px;
+  gap: 12px;
+}
+.label {
+  display: flex;
+
+  gap: 12px;
+  font-size: 20px;
+}
+.input {
+  padding-left: 8px;
+  width: 480px;
+  height: 30px;
+  margin-bottom: 12px;
+}
+.button {
+  width: 150px;
+}

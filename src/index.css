@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 1.5;
+  color: rgb(0, 7, 71);
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0;
+  width: 100%;
+  background-color: #a099fd48;
+}
+
+a {
+  color: #5b63ff;
+}
+a:hover {
+  color: #000cf7;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #9193ec;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  cursor: pointer;
+}
+button:hover {
+  border-color: #000cf7;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}

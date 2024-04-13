@@ -1,0 +1,30 @@
+.button {
+  margin-right: 12px;
+}
+.p {
+  display: flex;
+  justify-content: flex-start;
+  width: 200px;
+  margin-left: 8px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 12px;
+}
+
+.phone {
+  width: 20px;
+  height: 20px;
+}
+.person {
+  width: 20px;
+  height: 20px;
+}

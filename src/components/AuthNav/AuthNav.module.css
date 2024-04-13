@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  gap: 36px;
+  padding-right: 16px;
+  font-size: 24px;
+}
+.link {
+  text-decoration: none;
+  color: #1a1a1d;
+  padding: 6px;
+}
+
+.link:hover {
+  color: #001a8d;
+  border: 1px solid #001a8d;
+  border-radius: 4px;
+}
+.isActive {
+  color: #ec7702;
+}
