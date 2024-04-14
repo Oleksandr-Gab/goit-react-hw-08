@@ -16,6 +16,10 @@ body {
   margin: 0;
   width: 100%;
   background-color: #a099fd48;
+  background-image: url(https://ecooboi.com.ua/files/cache/84/17/da/ecooboi-abstrakciya-v-sinih-tonah-1628570538.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
